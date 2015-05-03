@@ -1,5 +1,6 @@
 # inputImages
-show your checkboxes whith on/off images
+Easily display your checkboxes with on/off images.
+As the script is in development and as there are no stable version for now, there's no minified version yet.
 
 Exemple:
 
